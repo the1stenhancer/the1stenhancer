@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @the1stenhancer, a newbie, for now... :-P
-- 👀 I’m interested in Networking, Cyber Security, Linux, C, Python, DjangoRestFramework, Databases :-D
+- 👀 I’m interested in Networking, Cyber Security, Linux, Python, Web, Databases :-D
 - 🌱 I’m currently learning Networking (Level 4), Cyber Security and many more!
 - 💞️ I’m looking to collaborate on any project concerning the above that can provide me with experience (I love responsive designs!)
 - 📫 How to reach me: Twitter => @the1stenhancer
