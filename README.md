@@ -2,7 +2,7 @@
 - 👀 I’m interested in Networking, Cyber Security, Linux systems, Programming, Hacking, Web, Databases :-D
 - 🌱 I’m thrilled to announce that I am on the market for now :-D
 - 💞️ I’m looking to collaborate on any project concerning the above that can provide me with experience 
-- 📫 How to reach me: Twitter => @the1stenhancer, ig => the1stenhancer
+- 📫 How to reach me: ig => the1stenhancer
 
 <!---
 the1stenhancer/the1stenhancer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
