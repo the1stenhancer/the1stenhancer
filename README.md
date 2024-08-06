@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @the1stenhancer, a Junior DevOps Linux System Administrator, for now... :-P
 - 👀 I’m interested in Computer networks, Linux systems, Programming, Security, Web, Databases :-D
-- 🌱 I’m thrilled to announce that I am no longer available :-D
-- 💞️ I’m still looking forward to collaborate on any project concerning the above that can provide me with more experience :-D
+- 🌱 My activity seems dry, right? But does it mean I just got lazy and fat doing nothing about my interests above? ;-)
+- 🌱 I’m thrilled to announce that I am still available for the moment, this might be your only chance to get me ;-D
+-  💞️ I’m still looking forward to collaborate on any project concerning the above that can provide me with more experience :-D
 - 📫 How to reach me: Telegram => @the1stenhancer
 
 <!---
