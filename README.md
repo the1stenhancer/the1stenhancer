@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @the1stenhancer, a UNIX PROGRAMMER (yes! You read that right), now and forever... :-P
-- 👀 I’m interested in Computer networks, UNIX systems, Programming, Security, Web, Databases blah blah blah, the complete hacker pack for short :-D
+- 👋 Hi, I’m @the1stenhancer, a Junior Cybersecurity Engineer (yes! You read that right), now and forever... :-P
+- 👀 I’m interested in Computer networks, Systems (mostly UNIX), Programming, SECURITY, Web, Databases blah blah blah, the complete hacker pack for short :-D
 - 🌱 My activity seems dry, right? But does it mean I just got lazy and fat doing nothing about my interests above? ;-)
 - 🌱 I’m thrilled to announce that I am still available for the moment, this might be your only chance to get me ;-D
 -  💞️ I’m still looking forward to collaborate on any project concerning the above that can provide me with more experience :-D
