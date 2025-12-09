@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @the1stenhancer, a Junior Cybersecurity Engineer (yes! You read that right), now and forever... :-P
+- 👋 Hi, I’m @the1stenhancer, a Python Nerd (yes! You read that right), now and forever... :-P
 - 👀 I’m interested in Computer networks, Systems (mostly UNIX), Programming, SECURITY, Web, Databases blah blah blah, the complete hacker pack for short :-D
 - 🌱 My activity seems dry, right? But does it mean I just got lazy and fat doing nothing about my interests above? ;-)
 - 🌱 I’m thrilled to announce that I am still available for the moment, this might be your only chance to get me ;-D
