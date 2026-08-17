@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @the1stenhancer, a C Nerd (yes! You read that right), now and forever... :-P
-- 👀 I’m interested in Computer networks, Systems (mostly UNIX), Programming, SECURITY, but mostly Network Programming.
+- 👀 I’m interested in Algorithm Design and Analysis, C programming, Computer networks, Systems (mostly UNIX), SECURITY, but mostly Network Programming.
 - 🌱 My activity seems dry, right? But does it mean I just got lazy and fat doing nothing about my interests above? ;-)
--  💞️ I’m still looking forward to collaborate on any project concerning the above that can provide me with more experience :-D
+-  💞️ I’m still looking forward to collaborating on any project concerning the above that can provide me with more experience :-D
 - 📫 How to reach me: Instagram: @the1stenhancer
 
 <!---
